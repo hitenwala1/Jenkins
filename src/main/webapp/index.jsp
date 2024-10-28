@@ -2,7 +2,7 @@
 <body>
 <h1><font color='red'> Welcome to HITEN,, Software Training Institute <font></h1>
   
-  <h2> Call Us : +91-9985396677 / +91 - 9985296677 </h2>
+  <h2> Call Us : +91-9821230636 / +91 - 7021389431 </h2>
   
   <h3>Mira road, Mumbai THis is Modified Script V77777777777 </h3>
 
